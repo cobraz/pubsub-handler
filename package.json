@@ -46,7 +46,7 @@
     "pino-cloud-logging": "^1.0.3"
   },
   "devDependencies": {
-    "@bjerk/eslint-config": "^5.4.0",
+    "@bjerk/eslint-config": "^6.0.0",
     "@simenandre/prettier": "^5.0.0",
     "@tsconfig/node16": "^1.0.3",
     "@types/jest": "^29.5.0",
